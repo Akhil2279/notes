@@ -1,2 +1,7 @@
-print("Task Manager Started")
+tasks = []
+def add_task(task):
+    tasks.append(task)
+
+print("Feature added")
+
 
